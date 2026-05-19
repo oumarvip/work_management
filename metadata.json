@@ -1,0 +1,6 @@
+{
+  "name": "Work Management",
+  "description": "A progressive web app for manual workers to track services, orders, and jobs with offline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
